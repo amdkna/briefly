@@ -12,17 +12,28 @@ Briefly یک اپلیکیشن تحت وب برای افرادی است که وق
 
 ## Current Stage
 
-ایده در مرحله Product Discovery است. هنوز درباره Stack، معماری و جزئیات پیاده‌سازی تصمیم نهایی گرفته نشده است.
+ایده در مرحله **Product Discovery / Validation** است.
+
+حکم فعلی Red Team:
+
+> **🟢 TEST — هنوز 🚀 BUILD نه**
+
+قبل از انتخاب Stack و شروع ساخت MVP فنی، باید با رفتار واقعی کاربران مشخص شود که Briefly می‌تواند زمان بررسی منابع را به شکل معناداری کاهش دهد و نیاز کاربر به بررسی مستقیم منابع اصلی را کمتر کند.
 
 ## Documentation
 
 - [Product Concept](docs/product-concept.md)
+- [Idea Red Team & Validation Plan](docs/idea-red-team.md)
 
 ## Next Steps
 
-1. تعریف دقیق Persona و کاربران هدف
-2. مشخص کردن منابع خبری قابل پشتیبانی
-3. طراحی User Journey
-4. تعیین ویژگی‌های MVP
-5. تعریف مدل شخصی‌سازی و امتیازدهی خبرها
-6. طراحی معماری فنی پس از تثبیت نیازهای محصول
+1. تعریف دقیق Beachhead User
+2. پیدا کردن حدود 10 کاربر واقعی
+3. اجرای Customer Interview
+4. ثبت Evidence و Current Behavior
+5. اجرای Concierge Daily Brief برای 7 تا 14 روز
+6. اندازه‌گیری Retention، Trust و کاهش Direct Source Checking
+7. تست Commitment و Willingness to Pay
+8. تصمیم درباره PERSEVERE / PIVOT / STOP / MORE EVIDENCE
+9. تعریف MVP فنی فقط در صورت Validation
+10. انتخاب Stack و Architecture پس از تثبیت MVP
