@@ -24,6 +24,7 @@ Briefly یک اپلیکیشن تحت وب برای افرادی است که وق
 
 - [Product Concept](docs/product-concept.md)
 - [Idea Red Team & Validation Plan](docs/idea-red-team.md)
+- [Technical Stack & Technology Decisions](docs/technical-stack.md)
 
 ## Next Steps
 
